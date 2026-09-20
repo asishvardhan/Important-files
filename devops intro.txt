@@ -1,0 +1,9 @@
+Pipeline: Sequential flow of the job
+
+Jenkins control the pipeline
+
+Servers which we own is onprem
+
+if someone owns server and you are renting that server is cloud
+
+https://github.com/asishvardhan/myrepo

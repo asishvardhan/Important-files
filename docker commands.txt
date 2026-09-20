@@ -1,0 +1,14 @@
+   11  docker version
+   12  docker images
+   13  docker run -itd -p 82:80 httpd
+   14  docker ps
+   15  docker ps -a
+   16  docker ps
+   17  docker exec -it 869482986f8d /bin/bash
+   18  docker images
+   19  docker stats
+   20  docker exec -it 869482986f8d /bin/bash
+   21  docker images
+   22  docker ps
+   24  docker commit 869482986f8d httpd_new
+   25  docker images
